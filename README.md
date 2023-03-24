@@ -1,2 +1,3 @@
 # site-simples
- site simples de html
+Um site simples de html.
+Aprendendo do zero a criar site.
